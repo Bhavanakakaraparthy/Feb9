@@ -1,0 +1,11 @@
+a=int(input('Enter a number'))
+b=int(input('Enter b number'))
+if(a>b):
+ print('a is bigger than',b)
+else:
+ print('b is bigger than',a)
+
+OUTPUT:
+Enter a number 20
+Enter b number 30
+b is bigger than 20
